@@ -11,6 +11,15 @@ body {
     color: #333;
     overflow-x: hidden;
 }
+h2{
+    
+        color: #f26d00;
+    
+}
+#aksh{
+    color: #eee;
+}
+    
 
 /* Background Animation */
 .background-animation {
